@@ -60,3 +60,6 @@ print(t)
 # 2.4 Ajouter un élément à la fin de la tuple
 t = t + (10,)
 print(t)
+
+# 2.5 Ajouter un élément à l’index numéro 3
+t = t[:3] + (11,) + t[3:]
