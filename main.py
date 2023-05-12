@@ -131,3 +131,7 @@ print(dictionnaire)
 # 4.9 copie du dictionnaire
 copy_dictionnaire = dictionnaire.copy()
 
+# 4.10 affiche les noveau elements
+print("\n IV.9 ---Copie du dictionnaire =")
+for cle, valeur in copy_dictionnaire.items():
+    print(cle,":",valeur) 
