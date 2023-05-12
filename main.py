@@ -103,3 +103,6 @@ print(dictionnaire)
 
 # 4.3 Affichage des clés
 print(dictionnaire.keys())
+
+# 4.4 Affichage des valeurs
+print(dictionnaire.values())
