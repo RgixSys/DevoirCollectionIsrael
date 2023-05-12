@@ -50,4 +50,6 @@ t = (2, 5, 3, 8, 1, 6, 4, 7, 9, 3)
 # 2.1 Afficher les éléments de la tuple
 print(t)
 
+# 2.2 Afficher le contenu de l'élément numéro 5
+print(t[4])
 
