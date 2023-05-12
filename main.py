@@ -97,3 +97,6 @@ print("Le set après la suppression totale : ", my_set)
 #QUESTION 4 : 
 # 4.1 Création du dictionnaire
 dictionnaire = {"fruit": "pomme", "couleur": "rouge", "animal": "chat", "pays": "France", "ville": "Paris", "sport": "football", "instrument": "guitare", "plat": "pizza", "film": "Star Wars", "livre": "Harry Potter"}
+
+# 4.2 Affichage du dictionnaire
+print(dictionnaire)
