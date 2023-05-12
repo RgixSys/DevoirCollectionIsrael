@@ -14,3 +14,7 @@ print(new_list)
 # 4. Ajouter un élément à la fin de la liste
 my_list.append('watermelon')
 print(my_list)
+
+# 5. Ajouter un élément à l’index numéro 2
+my_list.insert(1, 'grapefruit')
+print(my_list)
