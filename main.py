@@ -56,3 +56,7 @@ print(t[4])
 # 2.3 Ordonner la tuple
 t = tuple(sorted(t))
 print(t)
+
+# 2.4 Ajouter un élément à la fin de la tuple
+t = t + (10,)
+print(t)
