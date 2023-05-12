@@ -74,3 +74,6 @@ my_set = {"chat", "chien", "oiseau", "souris", "poisson", "serpent", "grenouille
 
 # 3.1 Afficher le set
 print("Le set avant l'ajout : ", my_set)
+
+# 3.2 Ajouter un élément
+my_set.add("tortue")
