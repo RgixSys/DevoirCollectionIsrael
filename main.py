@@ -89,3 +89,6 @@ print("Le set après la suppression : ", my_set)
 
 # 3.6. Supprimer le set
 my_set.clear()
+
+# 3.7 Afficher le set après la suppression
+print("Le set après la suppression totale : ", my_set)
