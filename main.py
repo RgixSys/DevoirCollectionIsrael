@@ -110,3 +110,9 @@ print(dictionnaire.values())
 # 4.5 Affichage des clés et des valeurs
 for cle, valeur in dictionnaire.items():
     print(cle, ":", valeur)
+    
+
+#4.6 Supprimer l'élément à la clé numéro 2 
+print("\n IV.5 ----la suppression de l'element numero 2 :")  
+supprimer = dictionnaire.pop("python")
+print(dictionnaire) 
