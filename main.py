@@ -41,3 +41,8 @@ print(my_list)
 
 # 11. Supprimer la liste
 del my_list
+
+
+# Question 2: 
+# 2.0 Créer une tuple de 10 éléments de type entier
+t = (2, 5, 3, 8, 1, 6, 4, 7, 9, 3)
