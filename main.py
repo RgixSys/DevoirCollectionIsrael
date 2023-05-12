@@ -106,3 +106,7 @@ print(dictionnaire.keys())
 
 # 4.4 Affichage des valeurs
 print(dictionnaire.values())
+
+# 4.5 Affichage des clés et des valeurs
+for cle, valeur in dictionnaire.items():
+    print(cle, ":", valeur)
