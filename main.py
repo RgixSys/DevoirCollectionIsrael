@@ -77,3 +77,6 @@ print("Le set avant l'ajout : ", my_set)
 
 # 3.2 Ajouter un élément
 my_set.add("tortue")
+
+# 3.3 Afficher le set après l'ajout
+print("Le set après l'ajout : ", my_set)
