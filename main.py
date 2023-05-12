@@ -10,3 +10,7 @@ print(my_list)
 # 3. Créer une nouvelle liste en la remplissant avec les éléments de la liste précédente contenant la lettre "a"
 new_list = [elem for elem in my_list if 'a' in elem]
 print(new_list)
+
+# 4. Ajouter un élément à la fin de la liste
+my_list.append('watermelon')
+print(my_list)
