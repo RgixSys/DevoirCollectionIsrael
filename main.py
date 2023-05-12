@@ -83,3 +83,6 @@ print("Le set après l'ajout : ", my_set)
 
 # 3.4 Supprimer un élément
 my_set.remove("souris")
+
+# 3.5 Afficher le set après la suppression
+print("Le set après la suppression : ", my_set)
