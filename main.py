@@ -130,3 +130,4 @@ print(dictionnaire)
 
 # 4.9 copie du dictionnaire
 copy_dictionnaire = dictionnaire.copy()
+
