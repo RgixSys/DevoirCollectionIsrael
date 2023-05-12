@@ -127,3 +127,6 @@ for cle, valeur in dictionnaire.items():
 print("\n IV.7 ---ajout d'un nouvel element dans un dictionnaire:")  
 dictionnaire.update({"voiture":"vehicule","Ajax":"langage"}) 
 print(dictionnaire)
+
+# 4.9 copie du dictionnaire
+copy_dictionnaire = dictionnaire.copy()
