@@ -63,3 +63,6 @@ print(t)
 
 # 2.5 Ajouter un élément à l’index numéro 3
 t = t[:3] + (11,) + t[3:]
+
+# 2.6 Afficher la nouvelle tuple
+print(t)
