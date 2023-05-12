@@ -27,3 +27,6 @@ print(my_list)
 my_list.pop(1)
 print(my_list)
 
+# 8. Ordonner la liste
+my_list.sort()
+print(my_list)
