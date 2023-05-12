@@ -100,3 +100,6 @@ dictionnaire = {"fruit": "pomme", "couleur": "rouge", "animal": "chat", "pays": 
 
 # 4.2 Affichage du dictionnaire
 print(dictionnaire)
+
+# 4.3 Affichage des clés
+print(dictionnaire.keys())
