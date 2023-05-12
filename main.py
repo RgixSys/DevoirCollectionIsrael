@@ -112,7 +112,13 @@ for cle, valeur in dictionnaire.items():
     print(cle, ":", valeur)
     
 
-#4.6 Supprimer l'élément à la clé numéro 2 
+# 4.6 Supprimer l'élément à la clé numéro 2 
 print("\n IV.5 ----la suppression de l'element numero 2 :")  
 supprimer = dictionnaire.pop("python")
 print(dictionnaire) 
+
+# 4.7 Afficher l'élément de la clé numéro 5 
+print("\n IV.6 ---l'affichage de l'element numero 5 de la dictionnaire:")
+for cle, valeur in dictionnaire.items():
+        if cle == "velo":
+            print(cle,":",valeur)
