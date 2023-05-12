@@ -30,3 +30,7 @@ print(my_list)
 # 8. Ordonner la liste
 my_list.sort()
 print(my_list)
+
+# 9. Afficher la sens au sens inverse
+my_list.reverse()
+print(my_list)
