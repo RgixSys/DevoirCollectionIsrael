@@ -71,3 +71,6 @@ print(t)
 # QUESTION 3 :
 # 3.0 Créer un set de 10 éléments de type chaîne de caractères
 my_set = {"chat", "chien", "oiseau", "souris", "poisson", "serpent", "grenouille", "lapin", "écureuil", "hamster"}
+
+# 3.1 Afficher le set
+print("Le set avant l'ajout : ", my_set)
