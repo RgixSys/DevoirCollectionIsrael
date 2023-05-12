@@ -66,3 +66,8 @@ t = t[:3] + (11,) + t[3:]
 
 # 2.6 Afficher la nouvelle tuple
 print(t)
+
+
+# QUESTION 3 :
+# 3.0 Créer un set de 10 éléments de type chaîne de caractères
+my_set = {"chat", "chien", "oiseau", "souris", "poisson", "serpent", "grenouille", "lapin", "écureuil", "hamster"}
