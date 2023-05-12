@@ -39,3 +39,5 @@ print(my_list)
 my_list.clear()
 print(my_list)
 
+# 11. Supprimer la liste
+del my_list
