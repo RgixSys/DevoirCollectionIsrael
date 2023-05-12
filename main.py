@@ -34,3 +34,8 @@ print(my_list)
 # 9. Afficher la sens au sens inverse
 my_list.reverse()
 print(my_list)
+
+# 10. Vider la liste
+my_list.clear()
+print(my_list)
+
