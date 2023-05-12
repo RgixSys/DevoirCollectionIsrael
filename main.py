@@ -122,3 +122,8 @@ print("\n IV.6 ---l'affichage de l'element numero 5 de la dictionnaire:")
 for cle, valeur in dictionnaire.items():
         if cle == "velo":
             print(cle,":",valeur)
+
+# 4.8 Ajouter un nouvel élément   
+print("\n IV.7 ---ajout d'un nouvel element dans un dictionnaire:")  
+dictionnaire.update({"voiture":"vehicule","Ajax":"langage"}) 
+print(dictionnaire)
