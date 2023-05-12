@@ -53,3 +53,6 @@ print(t)
 # 2.2 Afficher le contenu de l'élément numéro 5
 print(t[4])
 
+# 2.3 Ordonner la tuple
+t = tuple(sorted(t))
+print(t)
